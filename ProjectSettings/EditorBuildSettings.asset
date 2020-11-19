@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: "Assets/Scenes/Sc\xE8nes Menu/SampleScene.unity"
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: "Assets/Scenes/Sc\xE8nes Menu/CharacterScene.unity"
+    guid: 3346078bd06eaeb4a99b001585bbd10a
+  - enabled: 1
+    path: "Assets/Scenes/Sc\xE8nes Menu/ResultScreen.unity"
+    guid: ca272e3c399f9104d8f94a5f3ff341b6
+  - enabled: 1
+    path: "Assets/Scenes/Sc\xE8nes Menu/CreditsScene.unity"
+    guid: 697dc023db0d84e43b3f651feee17750
+  - enabled: 1
+    path: "Assets/Scenes/Sc\xE8nes combat/Scene Sumo1.unity"
+    guid: bca0694a8e5985e46883fd7d423d2f14
+  - enabled: 1
+    path: "Assets/Scenes/Sc\xE8nes combat/Scene Tresor1.unity"
+    guid: 08e857c43bfeba84794cb9e368681abf
+  - enabled: 1
+    path: "Assets/Scenes/Sc\xE8nes Menu/CommandScene.unity"
+    guid: 11a473136ec743446b3e90dc13253216
+  - enabled: 1
+    path: "Assets/Scenes/Sc\xE8nes Menu/ChoixMode.unity"
+    guid: 90a06e867a3aa1b40a528c6621e5dca0
+  - enabled: 1
+    path: "Assets/Scenes/Sc\xE8nes Menu/ChoixNiveau.unity"
+    guid: 94a08bd497a92ec4285a500fca4bba39
+  - enabled: 1
+    path: "Assets/Scenes/Sc\xE8nes Menu/ControlScene.unity"
+    guid: c287f887c6c1cd34fafc6ffb3207eb4e
+  - enabled: 1
+    path: "Assets/Scenes/Sc\xE8nes combat/Scene Tresor0.unity"
+    guid: 1d4a3e81481fd6d48bf604dd738af990
+  - enabled: 1
+    path: "Assets/Scenes/Sc\xE8nes combat/Scene Sumo0.unity"
+    guid: a4706ba6cd6c8484ea41310c12131153
+  - enabled: 1
+    path: "Assets/Scenes/Sc\xE8nes combat/Scene Tresor3.unity"
+    guid: dd1d4c09b276edc4385a6c46e36c9b2a
+  - enabled: 1
+    path: "Assets/Scenes/Sc\xE8nes combat/Scene Tresor2.unity"
+    guid: 085b64fa865d9374bbe60a2a2e1e5410
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: aa81edfa261e2674aa80072bb19cb875,
+      type: 2}

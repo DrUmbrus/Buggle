@@ -1,0 +1,307 @@
+fileFormatVersion: 2
+guid: 7b73323f67a809d4aaf8568118379d78
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8498386115568733958
+    second: PropsTileSet_0
+  - first:
+      213: 1427735772647711211
+    second: PropsTileSet_1
+  - first:
+      213: -2725270702899242702
+    second: PropsTileSet_2
+  - first:
+      213: 6390394582650284738
+    second: PropsTileSet_3
+  - first:
+      213: 4601708677496524000
+    second: PropsTileSet_4
+  - first:
+      213: -1015718485213356943
+    second: PropsTileSet_5
+  - first:
+      213: -3890192773131922912
+    second: PropsTileSet_6
+  - first:
+      213: 8586472628104719924
+    second: PropsTileSet_7
+  - first:
+      213: -3153619254473518938
+    second: PropsTileSet_8
+  - first:
+      213: -8469920782182309364
+    second: PropsTileSet_9
+  - first:
+      213: 1145767760522747667
+    second: PropsTileSet_10
+  - first:
+      213: -9047352615055367015
+    second: PropsTileSet_11
+  - first:
+      213: 1237083474536347237
+    second: PropsTileSet_12
+  - first:
+      213: 1453142647781497477
+    second: PropsTileSet_13
+  - first:
+      213: 4834914523720673591
+    second: PropsTileSet_14
+  - first:
+      213: -5304754909922901364
+    second: PropsTileSet_15
+  - first:
+      213: -1399749484130032297
+    second: PropsTileSet_16
+  - first:
+      213: 693984630405166300
+    second: PropsTileSet_17
+  - first:
+      213: -3231678967168202640
+    second: PropsTileSet_18
+  - first:
+      213: -6461190328806075375
+    second: PropsTileSet_19
+  - first:
+      213: -6743522653156875062
+    second: PropsTileSet_20
+  - first:
+      213: -8364301863605021897
+    second: PropsTileSet_21
+  - first:
+      213: 6394120296634196869
+    second: PropsTileSet_22
+  - first:
+      213: -3313915297347197295
+    second: PropsTileSet_23
+  - first:
+      213: -4620294153128246830
+    second: PropsTileSet_24
+  - first:
+      213: -8896355316082415932
+    second: PropsTileSet_25
+  - first:
+      213: 8110112535135261018
+    second: PropsTileSet_26
+  - first:
+      213: 8368758744525907967
+    second: PropsTileSet_27
+  - first:
+      213: 3470053274673207406
+    second: PropsTileSet_28
+  - first:
+      213: 6060380677554673155
+    second: PropsTileSet_29
+  - first:
+      213: -3791243011920238802
+    second: PropsTileSet_30
+  - first:
+      213: 5029298088781629637
+    second: PropsTileSet_31
+  - first:
+      213: 6082336285708540451
+    second: PropsTileSet_32
+  - first:
+      213: -288575364039442008
+    second: PropsTileSet_33
+  - first:
+      213: -2284650136652292434
+    second: PropsTileSet_34
+  - first:
+      213: 8077652580505562496
+    second: PropsTileSet_35
+  - first:
+      213: -5955345835717742776
+    second: PropsTileSet 1_0
+  - first:
+      213: -1850224483389571655
+    second: PropsTileSet 1_1
+  - first:
+      213: 7823393776755863818
+    second: PropsTileSet 1_2
+  - first:
+      213: 1283251492006367340
+    second: PropsTileSet 1_3
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20.5
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PropsTileSet 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f2173e38c5a5da0800000000000000
+      internalID: -5955345835717742776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsTileSet 1_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd75d0a2aea256e0800000000000000
+      internalID: -1850224483389571655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsTileSet 1_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01f8899037429c60800000000000000
+      internalID: 7823393776755863818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsTileSet 1_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60978ade660fc110800000000000000
+      internalID: 1283251492006367340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

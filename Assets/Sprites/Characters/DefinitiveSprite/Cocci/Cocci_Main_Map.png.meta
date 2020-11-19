@@ -1,0 +1,1241 @@
+fileFormatVersion: 2
+guid: 09ebbf06ef1a77844a1bd788c5146666
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4112109255491319083
+    second: coccccccc_0
+  - first:
+      213: 5892549316679326762
+    second: coccccccc_1
+  - first:
+      213: 4739154866521837695
+    second: coccccccc_2
+  - first:
+      213: -8934712388734725547
+    second: coccccccc_3
+  - first:
+      213: 8549176018850610187
+    second: coccccccc_4
+  - first:
+      213: 4391252983774403815
+    second: coccccccc_5
+  - first:
+      213: -444867392408220628
+    second: coccccccc_6
+  - first:
+      213: 8949908494836809828
+    second: coccccccc_7
+  - first:
+      213: -9036993506870413578
+    second: coccccccc_8
+  - first:
+      213: 593801374627451376
+    second: coccccccc_9
+  - first:
+      213: -793800309422305359
+    second: coccccccc_10
+  - first:
+      213: -8673798222797468283
+    second: coccccccc_11
+  - first:
+      213: 6846801451606699339
+    second: coccccccc_12
+  - first:
+      213: 2554418858463923320
+    second: coccccccc_13
+  - first:
+      213: -56325309175822236
+    second: coccccccc_14
+  - first:
+      213: 6983340520913351400
+    second: coccccccc_15
+  - first:
+      213: -6581733832337549031
+    second: coccccccc_16
+  - first:
+      213: 6688021217811886389
+    second: coccccccc_17
+  - first:
+      213: 8126987881640648076
+    second: coccccccc_18
+  - first:
+      213: 6223378923729122945
+    second: coccccccc_19
+  - first:
+      213: 1068932144478425992
+    second: coccccccc_20
+  - first:
+      213: 8829527009118686998
+    second: coccccccc_21
+  - first:
+      213: 6399197545344242542
+    second: coccccccc_22
+  - first:
+      213: -3578233340844035568
+    second: coccccccc_23
+  - first:
+      213: -533577951969694043
+    second: coccccccc_24
+  - first:
+      213: -16633600171600603
+    second: coccccccc_25
+  - first:
+      213: 1702994706862270065
+    second: coccccccc_26
+  - first:
+      213: -1290662855067849804
+    second: coccccccc_27
+  - first:
+      213: 8052889635718397135
+    second: coccccccc_28
+  - first:
+      213: 6242643212967057375
+    second: coccccccc_29
+  - first:
+      213: -3004823507974789155
+    second: coccccccc_30
+  - first:
+      213: 1190272424157368585
+    second: coccccccc_31
+  - first:
+      213: -3604194509874007424
+    second: coccccccc_32
+  - first:
+      213: 6757157044401370929
+    second: coccccccc_33
+  - first:
+      213: 1164659403438315380
+    second: coccccccc_34
+  - first:
+      213: 406185922590997358
+    second: coccccccc_35
+  - first:
+      213: -2290050226756954559
+    second: coccccccc_36
+  - first:
+      213: 3451693003953957847
+    second: coccccccc_37
+  - first:
+      213: -412466065348705013
+    second: coccccccc_38
+  - first:
+      213: -1406376380167619230
+    second: coccccccc_39
+  - first:
+      213: -800479782136690220
+    second: coccccccc_40
+  - first:
+      213: -5585398441489026833
+    second: coccccccc_41
+  - first:
+      213: -8309560789895903357
+    second: Cocci_Main_Map_0
+  - first:
+      213: -476377811296552936
+    second: Cocci_Main_Map_1
+  - first:
+      213: 3207834641839547135
+    second: Cocci_Main_Map_2
+  - first:
+      213: 4199091339352217594
+    second: Cocci_Main_Map_3
+  - first:
+      213: 5174660709124274195
+    second: Cocci_Main_Map_4
+  - first:
+      213: -3712801272662138774
+    second: Cocci_Main_Map_5
+  - first:
+      213: 8184408282780692395
+    second: Cocci_Main_Map_6
+  - first:
+      213: 9211003024418658295
+    second: Cocci_Main_Map_7
+  - first:
+      213: 1043947767555666316
+    second: Cocci_Main_Map_8
+  - first:
+      213: 119816226178671334
+    second: Cocci_Main_Map_9
+  - first:
+      213: 8584684899804113718
+    second: Cocci_Main_Map_10
+  - first:
+      213: 111314316146749219
+    second: Cocci_Main_Map_11
+  - first:
+      213: 9060136418556334941
+    second: Cocci_Main_Map_12
+  - first:
+      213: -24071562704053156
+    second: Cocci_Main_Map_13
+  - first:
+      213: 2172007709583338881
+    second: Cocci_Main_Map_14
+  - first:
+      213: -3403346561553033724
+    second: Cocci_Main_Map_15
+  - first:
+      213: 4312142203350808019
+    second: Cocci_Main_Map_16
+  - first:
+      213: -8137526977040244142
+    second: Cocci_Main_Map_17
+  - first:
+      213: -4529064370717149095
+    second: Cocci_Main_Map_18
+  - first:
+      213: -2678030161081022766
+    second: Cocci_Main_Map_19
+  - first:
+      213: 2422144597725047313
+    second: Cocci_Main_Map_20
+  - first:
+      213: 7747232841767963948
+    second: Cocci_Main_Map_21
+  - first:
+      213: 7718687702559964780
+    second: Cocci_Main_Map_22
+  - first:
+      213: 5368582903109048877
+    second: Cocci_Main_Map_23
+  - first:
+      213: -3867332964249958403
+    second: Cocci_Main_Map_24
+  - first:
+      213: -7775458584835687127
+    second: Cocci_Main_Map_25
+  - first:
+      213: -2330194577938457083
+    second: Cocci_Main_Map_26
+  - first:
+      213: -8159373044334204022
+    second: Cocci_Main_Map_27
+  - first:
+      213: 9169924828203043310
+    second: Cocci_Main_Map_28
+  - first:
+      213: -6440559418291526588
+    second: Cocci_Main_Map_29
+  - first:
+      213: -3114090484672533449
+    second: Cocci_Main_Map_30
+  - first:
+      213: -3575918069852456958
+    second: Cocci_Main_Map_31
+  - first:
+      213: -8945667115189006105
+    second: Cocci_Main_Map_32
+  - first:
+      213: 7509717800798081163
+    second: Cocci_Main_Map_33
+  - first:
+      213: 3052092488112824351
+    second: Cocci_Main_Map_34
+  - first:
+      213: 8761442839135022238
+    second: Cocci_Main_Map_35
+  - first:
+      213: -1050765591572361562
+    second: Cocci_Main_Map_36
+  - first:
+      213: -6912155048510014020
+    second: Cocci_Main_Map_37
+  - first:
+      213: 5506769775368591999
+    second: Cocci_Main_Map_38
+  - first:
+      213: 6379384944389468000
+    second: Cocci_Main_Map_39
+  - first:
+      213: 4298366972138808801
+    second: Cocci_Main_Map_40
+  - first:
+      213: -5147685286859634772
+    second: Cocci_Main_Map_41
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cocci_Main_Map_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3878dbecc728eac80800000000000000
+      internalID: -8309560789895903357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocci_Main_Map_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8187ac297e09369f0800000000000000
+      internalID: -476377811296552936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocci_Main_Map_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2e9056c94848c20800000000000000
+      internalID: 3207834641839547135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocci_Main_Map_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7128d435b264a30800000000000000
+      internalID: 4199091339352217594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocci_Main_Map_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318f5889f7610d740800000000000000
+      internalID: 5174660709124274195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocci_Main_Map_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60ea5de9ea797cc0800000000000000
+      internalID: -3712801272662138774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocci_Main_Map_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf68e768fbd49170800000000000000
+      internalID: 8184408282780692395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocci_Main_Map_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7d58fd27e04df70800000000000000
+      internalID: 9211003024418658295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocci_Main_Map_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81b739a6f8dc7e00800000000000000
+      internalID: 1043947767555666316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocci_Main_Map_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e225bf093ca9a100800000000000000
+      internalID: 119816226178671334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocci_Main_Map_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63beb79ce6de22770800000000000000
+      internalID: 8584684899804113718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocci_Main_Map_11
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fa750e7c77b8100800000000000000
+      internalID: 111314316146749219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocci_Main_Map_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5351ace1121cbd70800000000000000
+      internalID: 9060136418556334941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocci_Main_Map_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c16df8a0b7aaff0800000000000000
+      internalID: -24071562704053156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocci_Main_Map_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18def1b0185842e10800000000000000
+      internalID: 2172007709583338881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocci_Main_Map_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406951f7552e4c0d0800000000000000
+      internalID: -3403346561553033724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocci_Main_Map_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5f1bbbc7ec7db30800000000000000
+      internalID: 4312142203350808019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocci_Main_Map_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252ab5f2452b11f80800000000000000
+      internalID: -8137526977040244142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocci_Main_Map_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958b68a63f78521c0800000000000000
+      internalID: -4529064370717149095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocci_Main_Map_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6cbfed1c9b5dad0800000000000000
+      internalID: -2678030161081022766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocci_Main_Map_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a6806bdaf2d9120800000000000000
+      internalID: 2422144597725047313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocci_Main_Map_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2dc1d51933b38b60800000000000000
+      internalID: 7747232841767963948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocci_Main_Map_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e3343f1994e1b60800000000000000
+      internalID: 7718687702559964780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocci_Main_Map_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2adc07d4b9018a40800000000000000
+      internalID: 5368582903109048877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocci_Main_Map_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df709b5b829745ac0800000000000000
+      internalID: -3867332964249958403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocci_Main_Map_25
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d7b1dfc95081490800000000000000
+      internalID: -7775458584835687127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocci_Main_Map_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50edf64906c79afd0800000000000000
+      internalID: -2330194577938457083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocci_Main_Map_27
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bef86427514ce80800000000000000
+      internalID: -8159373044334204022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocci_Main_Map_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9c3120c0e124f70800000000000000
+      internalID: 9169924828203043310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocci_Main_Map_29
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444efe525598e96a0800000000000000
+      internalID: -6440559418291526588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocci_Main_Map_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c6bae043788c4d0800000000000000
+      internalID: -3114090484672533449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocci_Main_Map_31
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2083b842679cf5ec0800000000000000
+      internalID: -3575918069852456958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocci_Main_Map_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e01448a72b9ad380800000000000000
+      internalID: -8945667115189006105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocci_Main_Map_33
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b805ff73d80e73860800000000000000
+      internalID: 7509717800798081163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocci_Main_Map_34
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f106a9f72f53b5a20800000000000000
+      internalID: 3052092488112824351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocci_Main_Map_35
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c688297d5e69970800000000000000
+      internalID: 8761442839135022238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocci_Main_Map_36
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae402cf24eea61f0800000000000000
+      internalID: -1050765591572361562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocci_Main_Map_37
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd33250b971310a0800000000000000
+      internalID: -6912155048510014020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocci_Main_Map_38
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ad3b04fe9fb6c40800000000000000
+      internalID: 5506769775368591999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocci_Main_Map_39
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f2fc7bec0288850800000000000000
+      internalID: 6379384944389468000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocci_Main_Map_40
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5ea98ccfdd6ab30800000000000000
+      internalID: 4298366972138808801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocci_Main_Map_41
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca70a35518fbf88b0800000000000000
+      internalID: -5147685286859634772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: 89f3e372a2d552d4eb988a78efc7d2e9, type: 3}
+      name: _Emission
+    - texture: {fileID: 2800000, guid: cc93fe94228eb5040a482e23578cd651, type: 3}
+      name: _Player
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

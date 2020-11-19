@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - player
+  - floorG
+  - solid
+  - floor
+  - weakpoint
+  - flower
+  - boss
+  - Boom
+  - slash
+  - tp
+  - damageable
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Moving
+  - Post
+  - Characters
+  - TPTrez
+  - Treasure
+  - Portal
+  - NoTP
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sol
+    uniqueID: 4220768835
+    locked: 0
+  - name: Entre le mur et le sol
+    uniqueID: 2545994239
+    locked: 0
+  - name: Objets
+    uniqueID: 1660581079
+    locked: 0
+  - name: Weapons
+    uniqueID: 948551005
+    locked: 0
+  - name: Persos
+    uniqueID: 131196339
+    locked: 0
+  - name: Feuilles
+    uniqueID: 3296344381
+    locked: 0
+  - name: Murs
+    uniqueID: 2235143653
+    locked: 0
